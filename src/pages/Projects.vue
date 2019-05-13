@@ -43,6 +43,31 @@
           <a href="#" target="_blank">GitHub</a>
         </div>
       </div>
+      <!-- <div class="block">
+        <div class="block-header">
+          <div class="block-title">👨‍💻 Bertolini.dev</div>
+          <div class="block-meta">Vue • CSS • JS</div>
+        </div>
+        <div class="block-body">
+          <p>This blog</p>
+        </div>
+        <div class="block-footer">
+          <a href="#" target="_blank">GitHub</a>
+        </div>
+      </div>-->
+      <div class="block">
+        <div class="block-header">
+          <div class="block-title">📜 Aumyr</div>
+          <div class="block-meta">Vue • Text</div>
+        </div>
+        <div class="block-body">
+          <p>A free fantasy setting for roleplaying games</p>
+        </div>
+        <div class="block-footer">
+          <a href="#" target="_blank">Project</a>
+          <a href="#" target="_blank">GitHub</a>
+        </div>
+      </div>
     </div>
   </Layout>
 </template>

@@ -72,7 +72,6 @@ query Post ($path: String!) {
     }
     description
     content
-    coverImage
   }
 }
 </page-query>

@@ -47,11 +47,10 @@ export default {
   }
   .block-title {
     font-weight: bold;
-    font-size: 22px;
+    font-size: 1.25rem;
   }
   .block-meta {
     width: 100%;
-    font-size: 0.8em;
     max-width: 300px;
     text-align: right;
     color: #676767;
